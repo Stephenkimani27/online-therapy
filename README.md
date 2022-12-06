@@ -16,7 +16,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
     View booking of patients;
     
     
-![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(3).png)
+
     
  
  

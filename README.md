@@ -57,7 +57,7 @@ landing page
     edit account settings;
     
     
-![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/sekani3.png)  
+![](https://github.com/Stephenkimani27/doc/blob/b17eab30bdd144ec55f5e823fd4cc6a57080a9c2/Screenshots/sekani3.png)  
     
 If you are Admin,doctor or patient ,only have one page to login :)
 

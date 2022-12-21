@@ -15,7 +15,9 @@ This project helps a certain medical establishment such as a clinic or a hospita
     
     View booking of patients;
     
-    ![](https://github.com/Stephenkimani27/doc/blob/cfe23cae515c4e1aea1f90ca8879611c04d84a6c/Screenshots/sekani5.png)
+    
+    
+  ![](https://github.com/Stephenkimani27/doc/blob/cfe23cae515c4e1aea1f90ca8879611c04d84a6c/Screenshots/sekani5.png)
 
     
  

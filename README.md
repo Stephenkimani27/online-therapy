@@ -33,7 +33,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
     
     edit account settings;
     
-![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(9).png)
+![](https://github.com/Stephenkimani27/doc/blob/b17eab30bdd144ec55f5e823fd4cc6a57080a9c2/Screenshots/sekani4.png)
     
   3.Patiens(Clients)
   

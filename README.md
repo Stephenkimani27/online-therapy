@@ -15,12 +15,12 @@ This project helps a certain medical establishment such as a clinic or a hospita
     
     View booking of patients;
     
-    
+    ![](https://github.com/Stephenkimani27/doc/blob/b17eab30bdd144ec55f5e823fd4cc6a57080a9c2/Screenshots/sekani5.png)
 
     
  
  
-  2.Doctors
+  2.therapist
   
   
     View their Appointment;
